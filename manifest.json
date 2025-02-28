@@ -1,7 +1,7 @@
 {
     "name": "Zingplay user info",
     "short_name": "Zingplay user info",
-    "start_url": ".",
+    "start_url": "/w/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
