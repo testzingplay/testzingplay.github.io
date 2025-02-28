@@ -1,11 +1,11 @@
 {
-    "name": "verifier",
-    "short_name": "verifier",
+    "name": "Zingplay user info",
+    "short_name": "Zingplay user info",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Zingplay user info.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
